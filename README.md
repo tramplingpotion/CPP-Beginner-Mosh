@@ -1,6 +1,7 @@
 # CPP-Beginner-Mosh
 
-This is just a compilation of code use by mosh to teach beginner on cpp language.
+This is just a compilation of code use by mosh to teach beginner cpp on youtube
+https://www.youtube.com/watch?v=ZzaPdXTrSb8
 
 From my understanding vsc doesnt have a compiler so you need to install MingW first then install vsc plugin respectively.
 
